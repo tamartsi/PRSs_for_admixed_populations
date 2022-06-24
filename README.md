@@ -1,4 +1,8 @@
-# PRSs_for_admixed_populations
+# WRONG FILES
+
+Deep apologies, but the files are wrong. We may try to find the time and replace them with the correct files.
+However, there are much better methods for PRS construction and better GWAS summary statsitics availalbe today.
+
 
 These files provide SNPs (rsIDs, chromosomes, and positions in genome build 37), alleles, 
 and weights, for constructing PRSs for 12 traits: 
